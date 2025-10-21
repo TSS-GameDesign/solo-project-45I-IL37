@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Lose Screen",
-    "path":"folders/Sprites/Lose Screen.yy",
+    "name":"Particle Sprites",
+    "path":"folders/Sprites/Particle Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

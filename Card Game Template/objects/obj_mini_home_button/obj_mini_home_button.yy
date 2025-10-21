@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mini_home_button",
-    "path":"sprites/spr_mini_home_button/spr_mini_home_button.yy",
+    "name":"spr_pause_mini_home",
+    "path":"sprites/spr_pause_mini_home/spr_pause_mini_home.yy",
   },
   "spriteMaskId":null,
   "visible":true,

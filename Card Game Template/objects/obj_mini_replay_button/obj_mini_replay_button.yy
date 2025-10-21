@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mini_replay",
-    "path":"sprites/spr_mini_replay/spr_mini_replay.yy",
+    "name":"spr_pause_mini_replay",
+    "path":"sprites/spr_pause_mini_replay/spr_pause_mini_replay.yy",
   },
   "spriteMaskId":null,
   "visible":true,

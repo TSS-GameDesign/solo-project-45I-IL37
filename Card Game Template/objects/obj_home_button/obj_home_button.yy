@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_home_button",
-    "path":"sprites/spr_home_button/spr_home_button.yy",
+    "name":"spr_win_home_button",
+    "path":"sprites/spr_win_home_button/spr_win_home_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

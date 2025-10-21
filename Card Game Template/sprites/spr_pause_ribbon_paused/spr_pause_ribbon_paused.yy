@@ -3,7 +3,7 @@
   "%Name":"spr_pause_ribbon_paused",
   "bboxMode":0,
   "bbox_bottom":466,
-  "bbox_left":0,
+  "bbox_left":29,
   "bbox_right":2058,
   "bbox_top":0,
   "collisionKind":1,
