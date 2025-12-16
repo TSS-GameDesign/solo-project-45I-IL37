@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Clubs",
-    "path":"folders/Sprites/Game Screen/Cards/Clubs.yy",
+    "path":"folders/Game Screen/Cards/Clubs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

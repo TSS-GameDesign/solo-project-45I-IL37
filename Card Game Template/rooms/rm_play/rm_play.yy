@@ -7,10 +7,6 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_4275F2B1","path":"rooms/rm_play/rm_play.yy",},
-    {"name":"inst_1CA110A8","path":"rooms/rm_play/rm_play.yy",},
-    {"name":"inst_4938E3E3","path":"rooms/rm_play/rm_play.yy",},
-    {"name":"inst_5E370930","path":"rooms/rm_play/rm_play.yy",},
-    {"name":"inst_698F1E06","path":"rooms/rm_play/rm_play.yy",},
     {"name":"inst_2C95B46F","path":"rooms/rm_play/rm_play.yy",},
     {"name":"inst_74CB2FD","path":"rooms/rm_play/rm_play.yy",},
     {"name":"inst_32E40F1E","path":"rooms/rm_play/rm_play.yy",},
@@ -21,6 +17,10 @@
     {"name":"inst_1DFD67F6","path":"rooms/rm_play/rm_play.yy",},
     {"name":"inst_1B9F2CB","path":"rooms/rm_play/rm_play.yy",},
     {"name":"inst_695D2DFD","path":"rooms/rm_play/rm_play.yy",},
+    {"name":"inst_1CA110A8","path":"rooms/rm_play/rm_play.yy",},
+    {"name":"inst_4938E3E3","path":"rooms/rm_play/rm_play.yy",},
+    {"name":"inst_5E370930","path":"rooms/rm_play/rm_play.yy",},
+    {"name":"inst_698F1E06","path":"rooms/rm_play/rm_play.yy",},
   ],
   "isDnd":false,
   "layers":[

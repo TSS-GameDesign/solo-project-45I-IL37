@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Game Screen",
-    "path":"folders/Sprites/Game Screen.yy",
+    "path":"folders/Game Screen.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Particle Sprites",
-    "path":"folders/Sprites/Particle Sprites.yy",
+    "path":"folders/Sprites/Main Screen/Particle Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

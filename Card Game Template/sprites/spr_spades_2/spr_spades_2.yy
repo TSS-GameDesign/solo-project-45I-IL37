@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"07f88e0d-53d3-4472-b3c9-d663064da001","name":"07f88e0d-53d3-4472-b3c9-d663064da001","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"74df7a40-0de9-4ba2-a8c8-e7cf5fa55928","name":"74df7a40-0de9-4ba2-a8c8-e7cf5fa55928","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":360,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"0d849e59-1d43-499a-b9a7-510ea4414cdf","blendMode":0,"displayName":"default","isLocked":false,"name":"0d849e59-1d43-499a-b9a7-510ea4414cdf","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"98abe31c-3fd1-4ad1-bd16-0f4e6e88b941","blendMode":0,"displayName":"default","isLocked":false,"name":"98abe31c-3fd1-4ad1-bd16-0f4e6e88b941","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_spades_2",
   "nineSlice":null,
   "origin":4,
   "parent":{
     "name":"Spades",
-    "path":"folders/Sprites/Game Screen/Cards/Spades.yy",
+    "path":"folders/Game Screen/Cards/Spades.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"07f88e0d-53d3-4472-b3c9-d663064da001","path":"sprites/spr_spades_2/spr_spades_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"536d113e-d485-4840-b28c-6740125b6830","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"74df7a40-0de9-4ba2-a8c8-e7cf5fa55928","path":"sprites/spr_spades_2/spr_spades_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"13f3b65e-4f15-4b1b-80cc-e14aa516c64e","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

@@ -10,7 +10,7 @@ for(var _j = _cur_len; _j > 0; _j--)
 	{
 		// Iterate through all them.
 		for(var _i = _cur_len; _i > 0; _i--)
-		{		
+		{
 			// Create a temporary goal variable which will hold our figured out goal.
 			var _goal = y;
 		

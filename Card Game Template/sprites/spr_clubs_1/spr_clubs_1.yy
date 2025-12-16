@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1baa6a2f-2c50-4ab9-8502-ac87cf444d68","name":"1baa6a2f-2c50-4ab9-8502-ac87cf444d68","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"6675f141-7798-4d8b-9ef7-66371615c70c","name":"6675f141-7798-4d8b-9ef7-66371615c70c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":360,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"8bbf301c-dde0-457a-abc8-79c0fb704ad3","blendMode":0,"displayName":"default","isLocked":false,"name":"8bbf301c-dde0-457a-abc8-79c0fb704ad3","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"39dcc4c0-6a69-468a-805f-fbcdc486b4d9","blendMode":0,"displayName":"default","isLocked":false,"name":"39dcc4c0-6a69-468a-805f-fbcdc486b4d9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_clubs_1",
   "nineSlice":null,
   "origin":4,
   "parent":{
     "name":"Clubs",
-    "path":"folders/Sprites/Game Screen/Cards/Clubs.yy",
+    "path":"folders/Game Screen/Cards/Clubs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -71,8 +71,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1baa6a2f-2c50-4ab9-8502-ac87cf444d68","path":"sprites/spr_clubs_1/spr_clubs_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1df7ee72-296e-4515-8de1-f34d2054a7d8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6675f141-7798-4d8b-9ef7-66371615c70c","path":"sprites/spr_clubs_1/spr_clubs_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"9aa91706-0fc1-4442-9089-9febadd1c947","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

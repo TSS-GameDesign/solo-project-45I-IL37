@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Diamonds",
-    "path":"folders/Sprites/Game Screen/Cards/Diamonds.yy",
+    "path":"folders/Game Screen/Cards/Diamonds.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
